@@ -9,8 +9,6 @@ QueryMaster is an AI-powered project management and query interface that allows 
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Logging and Testing](#logging-and-testing)
-- [Directory Structure](#directory-structure)
 
 ## Features
 
@@ -19,7 +17,6 @@ QueryMaster is an AI-powered project management and query interface that allows 
 - Generate vector embeddings using OpenAI API
 - Store vector embeddings in Pinecone database
 - Query files through a chatbot interface
-- Automated logging and testing
 
 ## Tech Stack
 
