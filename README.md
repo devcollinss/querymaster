@@ -37,8 +37,8 @@ QueryMaster is an AI-powered project management and query interface that allows 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/vectorsage.git
-    cd vectorsage
+    git clone https://github.com/yourusername/querymaster.git
+    cd querymaster
     ```
 
 2. **Install dependencies:**
